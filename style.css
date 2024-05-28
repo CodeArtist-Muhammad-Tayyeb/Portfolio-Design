@@ -72,7 +72,7 @@ header{
 section {
     display: grid;
     grid-template-columns: auto;
-    gap: 15rem;
+    gap: 12rem;
     padding-left: 60px;
     padding-right: 60px;
     background-color: #131516;
