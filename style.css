@@ -279,6 +279,7 @@ section {
 .image3-card:hover .overlay3 {
     opacity: 1;
 }
+
 .image3{
     position: absolute;
 }
