@@ -12,7 +12,7 @@
 /* 1st */
 header{
     position: fixed;
-    background-image: linear-gradient(to right, #0A8CAC, #ffff, #ffff);
+    background-image: linear-gradient(to left, #0b0000, #666763, #948f90, #b4b0af);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -37,7 +37,8 @@ header{
 .nav__links li a{
     font-weight: 500;
     font-size: 16px;
-    color: #070707;
+    /* color: #070707; */
+    color: #b4b0af;
     text-decoration: none;
     list-style: none;
     transition: all 0.3s ease 0s;
@@ -57,11 +58,12 @@ header{
     font-size: 16px;
     text-decoration: none;
     padding: 9px 25px;
-    background-color: rgba(0, 136, 168, 1);
+    /* background-color: rgba(0, 136, 168, 1); */
+    background-color: #b4b0af;
     border: none;
     border-radius: 50px;
     cursor: pointer;
-    color: #F7F7F7;
+    color: #0b0000;
     transition: all 0.3s ease 0s;
 }
 .btn:hover{
